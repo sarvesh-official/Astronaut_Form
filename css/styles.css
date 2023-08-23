@@ -76,6 +76,6 @@ input[type="button"]{
     background-color: #E37737;
     padding: 15px;
     color: white;
-    border: none;
+    border-radius:15px;
     margin: 40px auto ;
 }
